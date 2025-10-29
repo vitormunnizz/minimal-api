@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mininal-api", "Api\mininal-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{E01D63DD-AF5D-4F73-8EA5-B28789E60F66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApi.Tests", "MinimalApi.Tests\MinimalApi.Tests.csproj", "{1234E138-7AA6-4341-AFF4-1EDAA1461AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{E01D63DD-AF5D-4F73-8EA5-B28789E60F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E01D63DD-AF5D-4F73-8EA5-B28789E60F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E01D63DD-AF5D-4F73-8EA5-B28789E60F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1234E138-7AA6-4341-AFF4-1EDAA1461AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1234E138-7AA6-4341-AFF4-1EDAA1461AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1234E138-7AA6-4341-AFF4-1EDAA1461AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1234E138-7AA6-4341-AFF4-1EDAA1461AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
